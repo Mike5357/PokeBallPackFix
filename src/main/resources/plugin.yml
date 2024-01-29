@@ -1,0 +1,5 @@
+name: PokeBallPackFix
+version: '1.0.0'
+main: com.thenodemc.pokeballpackfix.PokeBallPackFix
+api-version: '1.16'
+authors: [Mike5357]
